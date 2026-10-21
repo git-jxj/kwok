@@ -1,3 +1,4 @@
+# Head comparison for kubernetes-sigs/kwok#1793; production source is unchanged.
 name: Benchmark
 
 on:
